@@ -1,0 +1,10 @@
+Solder style prototype board.
+
+17 holes wide
++/- bus
+2.54mm centers
+5 holes tall top
+5 holes tall bottom
+7.62mm gap in middle
+
+Depends on library
