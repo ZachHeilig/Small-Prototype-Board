@@ -1,5 +1,5 @@
-EESchema Schematic File Version 2  date 1/14/2012 9:43:00 PM
-LIBS:board
+EESchema Schematic File Version 2  date 2/12/2012 3:57:15 AM
+LIBS:zach_components
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -30,7 +30,6 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:Protoboard_Quarter_Single-cache
 EELAYER 25  0
 EELAYER END
 $Descr A4 11700 8267

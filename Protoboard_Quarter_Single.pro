@@ -1,4 +1,4 @@
-update=12/5/2011 4:09:18 PM
+update=2/12/2012 3:57:36 AM
 version=1
 last_client=pcbnew
 [cvpcb]
@@ -45,7 +45,7 @@ RptD_Y=100
 RptLab=1
 LabSize=60
 [eeschema/libraries]
-LibName1=zach.components
+LibName1=zach_components
 LibName2=power
 LibName3=device
 LibName4=transistors
@@ -95,14 +95,15 @@ MSegLar=150
 LastNetListRead=Protoboard_Quarter_Single.net
 [pcbnew/libraries]
 LibDir=../library
-LibName1=zach.footprints
-LibName2=sockets
-LibName3=connect
-LibName4=discret
-LibName5=pin_array
-LibName6=divers
-LibName7=libcms
-LibName8=display
-LibName9=valves
-LibName10=led
-LibName11=dip_sockets
+LibName1=OPENHARDWARE
+LibName2=zach_footprints
+LibName3=sockets
+LibName4=connect
+LibName5=discret
+LibName6=pin_array
+LibName7=divers
+LibName8=libcms
+LibName9=display
+LibName10=valves
+LibName11=led
+LibName12=dip_sockets
