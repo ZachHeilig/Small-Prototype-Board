@@ -1,261 +1,267 @@
-# EESchema Netlist Version 1.1 created  1/14/2012 9:40:29 PM
+# EESchema Netlist Version 1.1 created  2/13/2012 4:11:49 PM
 (
+ ( /4F3987F5 BOARD_PROTO_QUARTER  BOARD1 BOARD_PROTO_QUARTER {Lib=BOARD_PROTO_QUARTER}
+  (   A1 /A1 )
+  (   A2 /A2 )
+  (   A3 /A3 )
+  (   A4 /A4 )
+  (   A5 /A5 )
+  (   A6 /A6 )
+  (   A7 /A7 )
+  (   A8 /A8 )
+  (   A9 /A9 )
+  (  A10 /A10 )
+  (  A11 /A11 )
+  (  A12 /A12 )
+  (  A13 /A13 )
+  (  A14 /A14 )
+  (  A15 /A15 )
+  (  A16 /A16 )
+  (  A17 /A17 )
+  (   A+ /A+ )
+  (   B1 /B1 )
+  (   B2 /B2 )
+  (   B3 /B3 )
+  (   B4 /B4 )
+  (   B5 /B5 )
+  (   B6 /B6 )
+  (   B7 /B7 )
+  (   B8 /B8 )
+  (   B9 /B9 )
+  (  B10 /B10 )
+  (  B11 /B11 )
+  (  B12 /B12 )
+  (  B13 /B13 )
+  (  B14 /B14 )
+  (  B15 /B15 )
+  (  B16 /B16 )
+  (  B17 /B17 )
+  (   B- /B- )
+ )
  ( /4EDD3EDF $noname  P4 CONN_1 {Lib=CONN_1}
-  (    1 N-000003 )
+  (    1 /B1 )
  )
  ( /4EDD3EDE $noname  P6 CONN_1 {Lib=CONN_1}
-  (    1 N-000002 )
+  (    1 /B2 )
  )
  ( /4EDD3EDD $noname  P8 CONN_1 {Lib=CONN_1}
-  (    1 N-000001 )
+  (    1 /B3 )
  )
  ( /4EDD3EDC $noname  P10 CONN_1 {Lib=CONN_1}
-  (    1 N-000036 )
+  (    1 /B4 )
  )
  ( /4EDD3EDB $noname  P20 CONN_1 {Lib=CONN_1}
-  (    1 N-000026 )
+  (    1 /B9 )
  )
  ( /4EDD3EDA $noname  P18 CONN_1 {Lib=CONN_1}
-  (    1 N-000028 )
+  (    1 /B8 )
  )
  ( /4EDD3ED9 $noname  P16 CONN_1 {Lib=CONN_1}
-  (    1 N-000030 )
+  (    1 /B7 )
  )
  ( /4EDD3ED8 $noname  P14 CONN_1 {Lib=CONN_1}
-  (    1 N-000032 )
+  (    1 /B6 )
  )
  ( /4EDD3ED7 $noname  P12 CONN_1 {Lib=CONN_1}
-  (    1 N-000034 )
+  (    1 /B5 )
  )
  ( /4EDD3ED6 $noname  P32 CONN_1 {Lib=CONN_1}
-  (    1 N-000014 )
+  (    1 /B15 )
  )
  ( /4EDD3ED5 $noname  P34 CONN_1 {Lib=CONN_1}
-  (    1 N-000012 )
+  (    1 /B16 )
  )
  ( /4EDD3ED4 $noname  P36 CONN_1 {Lib=CONN_1}
-  (    1 N-000010 )
+  (    1 /B17 )
  )
  ( /4EDD3ED3 $noname  P38 CONN_1 {Lib=CONN_1}
-  (    1 N-000004 )
+  (    1 /B- )
  )
  ( /4EDD3ED2 $noname  P30 CONN_1 {Lib=CONN_1}
-  (    1 N-000016 )
+  (    1 /B14 )
  )
  ( /4EDD3ED1 $noname  P28 CONN_1 {Lib=CONN_1}
-  (    1 N-000018 )
+  (    1 /B13 )
  )
  ( /4EDD3ED0 $noname  P26 CONN_1 {Lib=CONN_1}
-  (    1 N-000020 )
+  (    1 /B12 )
  )
  ( /4EDD3ECF $noname  P24 CONN_1 {Lib=CONN_1}
-  (    1 N-000022 )
+  (    1 /B11 )
  )
  ( /4EDD3ECE $noname  P22 CONN_1 {Lib=CONN_1}
-  (    1 N-000024 )
+  (    1 /B10 )
  )
  ( /4EDD3ECA $noname  P21 CONN_1 {Lib=CONN_1}
-  (    1 N-000025 )
+  (    1 /A10 )
  )
  ( /4EDD3EC9 $noname  P23 CONN_1 {Lib=CONN_1}
-  (    1 N-000023 )
+  (    1 /A11 )
  )
  ( /4EDD3EC8 $noname  P25 CONN_1 {Lib=CONN_1}
-  (    1 N-000021 )
+  (    1 /A12 )
  )
  ( /4EDD3EC7 $noname  P27 CONN_1 {Lib=CONN_1}
-  (    1 N-000019 )
+  (    1 /A13 )
  )
  ( /4EDD3EC6 $noname  P29 CONN_1 {Lib=CONN_1}
-  (    1 N-000017 )
+  (    1 /A14 )
  )
  ( /4EDD3EC3 $noname  P35 CONN_1 {Lib=CONN_1}
-  (    1 N-000011 )
+  (    1 /A17 )
  )
  ( /4EDD3EC2 $noname  P33 CONN_1 {Lib=CONN_1}
-  (    1 N-000013 )
+  (    1 /A16 )
  )
  ( /4EDD3EC1 $noname  P31 CONN_1 {Lib=CONN_1}
-  (    1 N-000015 )
+  (    1 /A15 )
  )
  ( /4EDD3EC0 $noname  P11 CONN_1 {Lib=CONN_1}
-  (    1 N-000035 )
+  (    1 /A5 )
  )
  ( /4EDD3EBF $noname  P13 CONN_1 {Lib=CONN_1}
-  (    1 N-000033 )
+  (    1 /A6 )
  )
  ( /4EDD3EBE $noname  P15 CONN_1 {Lib=CONN_1}
-  (    1 N-000031 )
+  (    1 /A7 )
  )
  ( /4EDD3EBD $noname  P17 CONN_1 {Lib=CONN_1}
-  (    1 N-000029 )
+  (    1 /A8 )
  )
  ( /4EDD3EBC $noname  P19 CONN_1 {Lib=CONN_1}
-  (    1 N-000027 )
+  (    1 /A9 )
  )
  ( /4EDD3EB6 $noname  P9 CONN_1 {Lib=CONN_1}
-  (    1 N-000009 )
+  (    1 /A4 )
  )
  ( /4EDD3EB4 $noname  P7 CONN_1 {Lib=CONN_1}
-  (    1 N-000008 )
+  (    1 /A3 )
  )
  ( /4EDD3EB3 $noname  P5 CONN_1 {Lib=CONN_1}
-  (    1 N-000007 )
+  (    1 /A2 )
  )
  ( /4EDD3EB2 $noname  P3 CONN_1 {Lib=CONN_1}
-  (    1 N-000006 )
+  (    1 /A1 )
  )
  ( /4EDD3EAC $noname  P1 CONN_1 {Lib=CONN_1}
-  (    1 N-000005 )
- )
- ( /4EDD3EA2 $noname  PB1 PROTO_BOARD_QUARTER {Lib=PROTO_BOARD_QUARTER}
-  (   A1 N-000006 )
-  (   A2 N-000007 )
-  (   A3 N-000008 )
-  (   A4 N-000009 )
-  (   A5 N-000035 )
-  (   A6 N-000033 )
-  (   A7 N-000031 )
-  (   A8 N-000029 )
-  (   A9 N-000027 )
-  (  A10 N-000025 )
-  (  A11 N-000023 )
-  (  A12 N-000021 )
-  (  A13 N-000019 )
-  (  A14 N-000017 )
-  (  A15 N-000015 )
-  (  A16 N-000013 )
-  (  A17 N-000011 )
-  (   A+ N-000005 )
-  (   B1 N-000003 )
-  (   B2 N-000002 )
-  (   B3 N-000001 )
-  (   B4 N-000036 )
-  (   B5 N-000034 )
-  (   B6 N-000032 )
-  (   B7 N-000030 )
-  (   B8 N-000028 )
-  (   B9 N-000026 )
-  (  B10 N-000024 )
-  (  B11 N-000022 )
-  (  B12 N-000020 )
-  (  B13 N-000018 )
-  (  B14 N-000016 )
-  (  B15 N-000014 )
-  (  B16 N-000012 )
-  (  B17 N-000010 )
-  (   B- N-000004 )
+  (    1 /A+ )
  )
 )
 *
+{ Allowed footprints by component:
+$component BOARD1
+ BOARD*
+$endlist
+$endfootprintlist
+}
 { Pin List by Nets
-Net 1 "" ""
- PB1 B3
- P8 1
-Net 2 "" ""
- PB1 B2
- P6 1
-Net 3 "" ""
- PB1 B1
- P4 1
-Net 4 "" ""
- P38 1
- PB1 B-
-Net 5 "" ""
- P1 1
- PB1 A+
-Net 6 "" ""
- PB1 A1
- P3 1
-Net 7 "" ""
- PB1 A2
- P5 1
-Net 8 "" ""
- PB1 A3
- P7 1
-Net 9 "" ""
- PB1 A4
- P9 1
-Net 10 "" ""
- PB1 B17
- P36 1
-Net 11 "" ""
- P35 1
- PB1 A17
-Net 12 "" ""
- P34 1
- PB1 B16
-Net 13 "" ""
- PB1 A16
- P33 1
-Net 14 "" ""
- PB1 B15
- P32 1
-Net 15 "" ""
- PB1 A15
- P31 1
-Net 16 "" ""
- PB1 B14
- P30 1
-Net 17 "" ""
- PB1 A14
- P29 1
-Net 18 "" ""
- P28 1
- PB1 B13
-Net 19 "" ""
- P27 1
- PB1 A13
-Net 20 "" ""
- P26 1
- PB1 B12
-Net 21 "" ""
- P25 1
- PB1 A12
-Net 22 "" ""
- P24 1
- PB1 B11
-Net 23 "" ""
- P23 1
- PB1 A11
-Net 24 "" ""
- P22 1
- PB1 B10
-Net 25 "" ""
- PB1 A10
- P21 1
-Net 26 "" ""
- PB1 B9
- P20 1
-Net 27 "" ""
- PB1 A9
- P19 1
-Net 28 "" ""
- PB1 B8
- P18 1
-Net 29 "" ""
+Net 1 "/A8" "A8"
+ BOARD1 A8
  P17 1
- PB1 A8
-Net 30 "" ""
- P16 1
- PB1 B7
-Net 31 "" ""
+Net 2 "/A16" "A16"
+ P33 1
+ BOARD1 A16
+Net 3 "/A15" "A15"
+ P31 1
+ BOARD1 A15
+Net 4 "/A14" "A14"
+ BOARD1 A14
+ P29 1
+Net 5 "/A13" "A13"
+ P27 1
+ BOARD1 A13
+Net 6 "/A12" "A12"
+ P25 1
+ BOARD1 A12
+Net 7 "/A11" "A11"
+ P23 1
+ BOARD1 A11
+Net 8 "/A10" "A10"
+ BOARD1 A10
+ P21 1
+Net 9 "/A9" "A9"
+ BOARD1 A9
+ P19 1
+Net 10 "/A17" "A17"
+ BOARD1 A17
+ P35 1
+Net 11 "/A7" "A7"
  P15 1
- PB1 A7
-Net 32 "" ""
- P14 1
- PB1 B6
-Net 33 "" ""
+ BOARD1 A7
+Net 12 "/A6" "A6"
+ BOARD1 A6
  P13 1
- PB1 A6
-Net 34 "" ""
- PB1 B5
- P12 1
-Net 35 "" ""
- PB1 A5
+Net 13 "/A5" "A5"
  P11 1
-Net 36 "" ""
+ BOARD1 A5
+Net 14 "/A4" "A4"
+ P9 1
+ BOARD1 A4
+Net 15 "/A3" "A3"
+ P7 1
+ BOARD1 A3
+Net 16 "/A2" "A2"
+ BOARD1 A2
+ P5 1
+Net 17 "/A1" "A1"
+ BOARD1 A1
+ P3 1
+Net 18 "/A+" "A+"
+ P1 1
+ BOARD1 A+
+Net 19 "/B9" "B9"
+ P20 1
+ BOARD1 B9
+Net 20 "/B17" "B17"
+ P36 1
+ BOARD1 B17
+Net 21 "/B16" "B16"
+ P34 1
+ BOARD1 B16
+Net 22 "/B14" "B14"
+ BOARD1 B14
+ P30 1
+Net 23 "/B15" "B15"
+ BOARD1 B15
+ P32 1
+Net 24 "/B13" "B13"
+ BOARD1 B13
+ P28 1
+Net 25 "/B12" "B12"
+ P26 1
+ BOARD1 B12
+Net 26 "/B11" "B11"
+ P24 1
+ BOARD1 B11
+Net 27 "/B10" "B10"
+ P22 1
+ BOARD1 B10
+Net 28 "/B8" "B8"
+ BOARD1 B8
+ P18 1
+Net 29 "/B7" "B7"
+ BOARD1 B7
+ P16 1
+Net 30 "/B6" "B6"
+ P14 1
+ BOARD1 B6
+Net 31 "/B5" "B5"
+ BOARD1 B5
+ P12 1
+Net 32 "/B4" "B4"
  P10 1
- PB1 B4
+ BOARD1 B4
+Net 33 "/B3" "B3"
+ BOARD1 B3
+ P8 1
+Net 34 "/B2" "B2"
+ P6 1
+ BOARD1 B2
+Net 35 "/B1" "B1"
+ BOARD1 B1
+ P4 1
+Net 36 "/B-" "B-"
+ P38 1
+ BOARD1 B-
 }
 #End

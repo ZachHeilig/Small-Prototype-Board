@@ -1,15 +1,15 @@
-Cmp-Mod V01 Created by CvPCB (2011-07-08 BZR 3044)-stable date = 12/5/2011 4:09:00 PM
+Cmp-Mod V01 Created by CvPcb (2012-01-19 BZR 3256)-stable date = 2/13/2012 4:01:28 PM
+
+BeginCmp
+TimeStamp = /4F3987F5;
+Reference = BOARD1;
+ValeurCmp = BOARD_PROTO_QUARTER;
+IdModule  = BOARD_PROTO_QUARTER;
+EndCmp
 
 BeginCmp
 TimeStamp = /4EDD3EAC;
 Reference = P1;
-ValeurCmp = CONN_1;
-IdModule  = ;
-EndCmp
-
-BeginCmp
-TimeStamp = /4EDD3EC5;
-Reference = P2;
 ValeurCmp = CONN_1;
 IdModule  = ;
 EndCmp
@@ -253,24 +253,10 @@ IdModule  = ;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EDD3EC4;
-Reference = P37;
-ValeurCmp = CONN_1;
-IdModule  = ;
-EndCmp
-
-BeginCmp
 TimeStamp = /4EDD3ED3;
 Reference = P38;
 ValeurCmp = CONN_1;
 IdModule  = ;
-EndCmp
-
-BeginCmp
-TimeStamp = /4EDD3EA2;
-Reference = PB1;
-ValeurCmp = PROTO_BOARD_QUARTER;
-IdModule  = PROTO_BOARD_QUARTER;
 EndCmp
 
 EndListe
